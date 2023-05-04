@@ -1,0 +1,9 @@
+Descarga Python - https://www.python.org/downloads/
+Descarga Visual Studio - https://code.visualstudio.com/download
+Extensiones Visual Studio Code - https://www.youtube.com/watch?v=T0Zdhxklnis&list=PLhr9YdZStgI0NXZQ_dne2mVLrPo4YF-L_&index=10
+Descarga Anaconda - https://www.anaconda.com/download/
+Programando con Google Colab - https://colab.research.google.com/?hl=es
+
+Twitter - https://twitter.com/josecodetech
+Facebook - https://www.facebook.com/josecodetech
+Youtube - https://www.youtube.com/@josecodetech
