@@ -25,7 +25,7 @@ def main():
             break
         else:
             print("Selecciona opcion correcta")
-    #pass
+    
 if __name__=='__main__':
     main()
            

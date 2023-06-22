@@ -1,0 +1,9 @@
+Hola, estoy escribiendo en el fichero de texto desde python
+Adios.
+Añadiendo mas contenido al final del fichero.
+Otra linea mas añadida manualmente.
+2 3 5 
+23.5
+True
+False
+[1,2,3,5]
